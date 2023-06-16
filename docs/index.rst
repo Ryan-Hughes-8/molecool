@@ -13,7 +13,7 @@ Welcome to molecool's documentation!
    getting_started
    api
 
-
+This package has utilities to compute properties of molecules.
 
 Indices and tables
 ==================
